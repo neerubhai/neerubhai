@@ -1,6 +1,6 @@
 ### Hi there, I'm Neeraj 👋
 
-A passionate Data Engineer 🚀 building data infrastructure and backend applications with Python / SQL / Spark and some other cool libraries and frameworks. I love maps 🗺️ and enjoy working with location and geospatial data.
+A passionate Data Engineer 🚀 building data infrastructure and backend applications on the cloud with Python / SQL / Spark and some other cool libraries and frameworks. I love maps 🗺️ and enjoy working with location and geospatial data.
 
 - 🔭 I’m currently working on data engineering and geospatial projects.
 - 🌱 I’m currently learning and experimenting with fine tuning pre-trained models for image classification and segmentation.
