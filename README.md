@@ -4,7 +4,7 @@ A passionate Data Engineer 🚀 building data infrastructure and backend applica
 
 - 🔭 I’m currently working on data engineering and geospatial projects.
 - 🌱 I’m learning and experimenting with fine tuning pre-trained ML models for image classification and segmentation.
-- 💬 Ask me about: Data Engineering, Cloud Infrastructure, Backend, GIS, Geospatial Data Science.
+- 💬 Ask me about: Data Engineering, Cloud Infrastructure, Backend, GIS, Geospatial, Remote Sensing, Data Science, IaC.
 
 <!--
 **neerubhai/neerubhai** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
